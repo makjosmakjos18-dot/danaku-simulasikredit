@@ -22,7 +22,7 @@
     },
 
     "appOpen": {
-      "enabled": false,
+      "enabled": true,
       "unitId": "ca-app-pub-3940256099942544/9257395921"
     },
 
